@@ -10,7 +10,7 @@ require (
 )
 
 require (
-	github.com/coinsec/coinsecd
+	github.com/coinsec/coinsecd v0.0.0-20240503131852-ae5767fe9705 
 	github.com/btcsuite/go-socks v0.0.0-20170105172521-4720035b7bfd // indirect
 	github.com/davecgh/go-spew v1.1.1 // indirect
 	github.com/jrick/logrotate v1.0.0 // indirect
